@@ -1,0 +1,4 @@
+This research utilized three primary datasets:<br><br>
+Car Accident Dataset: Sourced from Kaggle, this dataset covers car accidents across 49 states of the USA from February 2016 to March 2023. It includes approximately 7.7 million accident records collected in real-time using multiple Traffic APIs. The data encompasses various attributes such as location (latitude and longitude), type of accident, precipitation, visibility, and severity.<br><br>
+Urban Tree Dataset: Compiled by McCoy et al. (2022), this dataset includes detailed information on 5,660,237 trees from 63 of the largest US cities. The data provides insights into tree species, location, nativity status, health, and size, among other attributes.<br><br>
+Urban Forest Inventory and Analysis Database (Urban FIADB): Provided by the U.S. Department of Agriculture, Forest Service, this database offers comprehensive data on urban forests, including tree species, location, and health.
